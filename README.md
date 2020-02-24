@@ -8,3 +8,4 @@ You also need to clone https://github.com/Trufa-me/bravo-technical-test-backend 
 For inspiration on design and layout please use https://github.com/Trufa-me/bravo-technical-test-frontend/blob/master/designs/layout.png
 it does not need to accurate nor perfect, you can also do you own design if that is better for you.
 
+This test will be between 45-60 mins
