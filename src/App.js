@@ -1,12 +1,11 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 
 function App() {
-  return (
-    <div className="app">
-			<h1>You can start here with a basic layout</h1>
-    </div>
-  );
+	return (
+		<div className="app">
+		</div>
+	);
 }
 
 export default App;

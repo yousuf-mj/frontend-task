@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Details component 1`] = `
+<div
+  className="details"
+>
+  <div>
+    London
+  </div>
+  <div>
+    £50,000
+  </div>
+  <div>
+    Permanent
+  </div>
+  <div>
+    Acme
+  </div>
+</div>
+`;
