@@ -35,11 +35,11 @@ The task to be accomplished here is to
 - fetch jobs from `http://localhost:5002/api/v1/jobs` and render them in your new composed card component. 
 - feel free to use your the data coming back from your new features on the backend.
 
-For inspiration:
+**For inspiration:** 
 
 <img src="https://github.com/Trufa-me/bravo-technical-test-frontend/blob/master/designs/layout.png?raw=true" alt="component design" width="450px"/>
 
-## Notes:
+## Other Notes:
 Here is an example what the structure looks like. All the data can be found in `bravo-technical-test-backend/db/data.js`
 ```
  [
