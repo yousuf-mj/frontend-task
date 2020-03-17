@@ -28,14 +28,15 @@ The end user of this API should be able use this new functionality separately or
 **Feel free to make what ever changes required to the express app you deem necessary** 
 
 ### Task 2:
-<img src="https://github.com/Trufa-me/bravo-technical-test-frontend/blob/master/designs/layout.png?raw=true" alt="component design"/>
-
 The frontend will now need to be connected to your backend so that a user can see the job ads. 
 You will notice that there are already some components available for each of your values on a job object. 
 The task to be accomplished here is to 
 - compose a Card component with your existing components
 - fetch jobs from `http://localhost:5002/api/v1/jobs` and render them in your new composed card component. 
 - feel free to use your the data coming back from your new features on the backend.
+
+For inspiration:
+<img src="https://github.com/Trufa-me/bravo-technical-test-frontend/blob/master/designs/layout.png?raw=true" alt="component design" width="300px"/>
 
 ## Notes:
 Here is an example what the structure looks like. All the data can be found in `bravo-technical-test-backend/db/data.js`
