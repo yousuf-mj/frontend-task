@@ -28,7 +28,7 @@ The end user of this API should be able use this new functionality separately or
 **Feel free to make what ever changes required to the express app you deem necessary** 
 
 ### Task 2:
-<img src="https://github.com/trufa-me/bravo-technical-test-frontend/designs/layout.png" alt="component design"/>
+<img src="https://github.com/Trufa-me/bravo-technical-test-frontend/blob/master/designs/layout.png?raw=true" alt="component design"/>
 
 The frontend will now need to be connected to your backend so that a user can see the job ads. 
 You will notice that there are already some components available for each of your values on a job object. 
