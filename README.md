@@ -11,7 +11,6 @@
   - The frontend is a create-react-app and should auto load the browser on `yarn start` or `npm run start` if not, browse to `http://localhost:5001`
 
 ### Task 1:
-
 #### Backend:
 
 Currently the backend is able to provide a list of results using a GET request to: `http://localhost:5002/api/v1/jobs`
@@ -28,6 +27,8 @@ The end user of this API should be able use this new functionality separately or
 **Feel free to make what ever changes required to the express app you deem necessary** 
 
 ### Task 2:
+#### Frontend:
+
 The frontend will now need to be connected to your backend so that a user can see the job ads. 
 You will notice that there are already some components available for each of your values on a job object. 
 The task to be accomplished here is to 
