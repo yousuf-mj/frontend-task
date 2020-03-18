@@ -41,7 +41,7 @@ The task to be accomplished here is to
 <img src="https://github.com/Trufa-me/bravo-technical-test-frontend/blob/master/designs/layout.png?raw=true" alt="component design" width="350px"/>
 
 ## Other Notes:
-Here is an example what the structure looks like. All the data can be found in `bravo-technical-test-backend/db/data.js`
+Here is an example of what the structure looks like. All the data can be found in `bravo-technical-test-backend/db/data.js`
 ```
  [
     {
