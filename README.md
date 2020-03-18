@@ -18,8 +18,8 @@ The problem you will be required solve, is by figuring out the best way to filte
 a user might only want to see jobs from a specific `location` or might want to sort jobs by `salary`, what would be the best way to go about this?
 
 For now we only require you to add the following features:
- - return only results by title
- - return only results by location
+ - return a list of results by title
+ - return a list of results by location
  - and sort results by salary
 
 The end user of this API should be able use this new functionality separately or in combination.
