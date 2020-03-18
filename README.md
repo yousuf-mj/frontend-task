@@ -17,7 +17,7 @@ Currently the backend is able to provide a list of results using a GET request t
 The problem you will be required solve, is by figuring out the best way to filter and sort the results. For example, 
 a user might only want to see jobs from a specific `location` or might want to sort jobs by `salary`, what would be the best way to go about this?
 
-For now we only require you to add the following features:
+**For now we only require you to add the following features:**
  - return a list of results by title
  - return a list of results by location
  - and sort results by salary
