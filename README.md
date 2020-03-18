@@ -24,6 +24,8 @@ For now we only require you to add the following features:
 
 The end user of this API should be able use this new functionality separately or in combination.
 
+**Note:** the data it self can be found [here](https://github.com/Trufa-me/bravo-technical-test-backend/blob/master/src/db/data.js)
+ 
 **Feel free to make what ever changes required to the express app you deem necessary** 
 
 ## Task 2:
