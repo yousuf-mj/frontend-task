@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.scss';
 
+import Card from './containers/Card/Card'
+
 function App() {
 	return (
 		<div className="app">
-			Starting building your new card here..
+			<Card/>
 		</div>
 	);
 }
